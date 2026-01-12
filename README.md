@@ -13,7 +13,7 @@ It is purpose-built for:
 
 ## 🎥 Project Demo
 
-[![Tribe Of Zebulun Demo](assets/demo.png)]
+[![Tribe Of Zebulun Demo](asset/demo.png)]
 
 ▶ Click the image above to watch the full demo walkthrough
 
