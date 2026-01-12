@@ -1,0 +1,7 @@
+customtkinter
+pdfminer.six
+oletools
+cryptography
+pefile
+capstone
+yara-python
